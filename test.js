@@ -13,7 +13,7 @@ export default styled('button')({
   border: 'none',
   borderRadius: height / 2,
   fontFamily: 'inherit',
-  fontSize: 18,
+  fontSize: 11,
   lineHeight: `${height}px`,
   fontWeight: 700,
   color: 'white',
